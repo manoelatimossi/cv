@@ -1,0 +1,33 @@
+
+    body{
+        background-color:#F9CEEE;
+    }
+    hr {
+        border-style: none;
+        border-top-style: dotted;
+        border-color: gray;
+        border-width: 5px;
+        width: 10%;
+        
+    }
+    img {
+        height: 150px;
+    }
+    h1{
+        color: #7D1E6A;
+    }
+    h2{
+        color: #AC7D88;
+    }
+    h3{
+        color: #AC7D88;
+    }
+    #links {
+        color:#AC7D88;
+    }
+    h1:hover{
+        color:plum;
+    }
+    .circular{
+        border-radius: 100%;
+    }
